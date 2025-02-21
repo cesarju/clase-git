@@ -10,6 +10,9 @@ Crear nueva rama
 2. `git checkout -b <nombre nueva rama>`
 3. `git switch -c <nombre nueva rama>`
 
-Visualizar el repositorio remoto
+Alamacenar cambios en un registro temporal
+
+1. `git stash`
+   Visualizar el repositorio remoto
 
 1. `git remote -v`
