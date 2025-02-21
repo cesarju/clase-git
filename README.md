@@ -9,3 +9,7 @@ Crear nueva rama
 1. `git branch <nombre nueva rama>`
 2. `git checkout -b <nombre nueva rama>`
 3. `git switch -c <nombre nueva rama>`
+
+Visualizar el repositorio remoto
+
+1. `git remote -v`
