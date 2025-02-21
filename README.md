@@ -13,3 +13,6 @@ Crear nueva rama
 Alamacenar cambios en un registro temporal
 
 1. `git stash`
+   Visualizar el repositorio remoto
+
+1. `git remote -v`
